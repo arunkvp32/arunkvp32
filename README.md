@@ -1,10 +1,4 @@
-!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Arun's Profile</title>
-</head>
+
 <body>
   <h1 align="center">Hi 👋, I'm Arun</h1>
   <h3 align="center">Coding enthusiast from India, fervently dedicated to mastering the art of Full Stack Development.</h3>
